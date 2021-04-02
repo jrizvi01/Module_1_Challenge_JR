@@ -11,6 +11,11 @@ In this section, loops and variables are defined to automate the calculations fo
 
 ![image](https://user-images.githubusercontent.com/80922524/113368368-68645680-9313-11eb-844d-39a18b17f2e7.png)
 
+**Results:**
+
+![image](https://user-images.githubusercontent.com/80922524/113370031-afece180-9317-11eb-80da-51b33592e4b2.png)
+
+
 
 **Part 2: Analyze Loan Data**
 
