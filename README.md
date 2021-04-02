@@ -32,3 +32,11 @@ In this section, a function is defined, which will be used in present value calc
 In this section, program loops through a series of loans that the company is considering and filter them to find the inexpensive ones.
 
 ![image](https://user-images.githubusercontent.com/80922524/113369530-6bad1180-9316-11eb-944c-89869e553dde.png)
+
+**Part 5: Create a CSV file**
+
+In this section, an output of the list of inexpensive loans from part 4 is saved as a CSV file
+
+![image](https://user-images.githubusercontent.com/80922524/113369910-5dabc080-9317-11eb-8387-442f1393c69d.png)
+
+
