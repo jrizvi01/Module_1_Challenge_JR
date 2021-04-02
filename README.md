@@ -36,6 +36,10 @@ In this section, a function is defined, which will be used in present value calc
 
 ![image](https://user-images.githubusercontent.com/80922524/113369238-b67a5980-9315-11eb-94bd-7b4aa6923a3b.png)
 
+**Results:**
+
+![image](https://user-images.githubusercontent.com/80922524/113370295-5c2ec800-9318-11eb-9be0-89cf1b40170e.png)
+
 
 **Part 4: Conditionally Filter Lists of Loans**
 
