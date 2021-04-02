@@ -58,4 +58,9 @@ In this section, an output of the list of inexpensive loans from part 4 is saved
 
 ![image](https://user-images.githubusercontent.com/80922524/113369910-5dabc080-9317-11eb-8387-442f1393c69d.png)
 
+**Results:**
+
+![image](https://user-images.githubusercontent.com/80922524/113370466-c9daf400-9318-11eb-9de7-bee1a24d19d6.png)
+
+
 
