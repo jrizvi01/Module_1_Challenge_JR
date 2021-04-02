@@ -24,6 +24,11 @@ In this section, detailed data from the list is used to calculate present value,
 ![image](https://user-images.githubusercontent.com/80922524/113368940-deb58880-9314-11eb-9af3-9ff8f21610d1.png)
 ![image](https://user-images.githubusercontent.com/80922524/113368819-7d8db500-9314-11eb-9dec-3f88015f3e2e.png)
 
+**Results:**
+
+![image](https://user-images.githubusercontent.com/80922524/113370183-0e19c480-9318-11eb-87e4-6faeceb80af6.png)
+
+
 
 **Part 3: Perform Financial Calculations**
 
