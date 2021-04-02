@@ -15,7 +15,7 @@ In this section, loops and variables are defined to automate the calculations fo
 **Part 2: Analyze Loan Data**
 In this section detailed data from the list is used to calculate present value, or fair price, of what this loan would be worth.
 
-![image](https://user-images.githubusercontent.com/80922524/113368727-63ec6d80-9314-11eb-861c-c554e129609d.png)
+![image](https://user-images.githubusercontent.com/80922524/113368940-deb58880-9314-11eb-9af3-9ff8f21610d1.png)
 ![image](https://user-images.githubusercontent.com/80922524/113368819-7d8db500-9314-11eb-9dec-3f88015f3e2e.png)
 
 
