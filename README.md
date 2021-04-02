@@ -47,6 +47,11 @@ In this section, program loops through a series of loans that the company is con
 
 ![image](https://user-images.githubusercontent.com/80922524/113369530-6bad1180-9316-11eb-944c-89869e553dde.png)
 
+**Results:**
+
+![image](https://user-images.githubusercontent.com/80922524/113370392-9a2bec00-9318-11eb-93ab-76f490bbc338.png)
+
+
 **Part 5: Create a CSV file**
 
 In this section, an output of the list of inexpensive loans from part 4 is saved as a CSV file
