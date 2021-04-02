@@ -1,7 +1,7 @@
 **Loan Analyzer**
 
 **Basic Information**
-The purpose of this Python program is to automates the tasks associated with valuing microlending loans.
+The purpose of this python program is to automates the tasks associated with valuing microlending loans.
 
 The program is divided into four sections:
 
@@ -20,10 +20,15 @@ In this section, detailed data from the list is used to calculate present value,
 ![image](https://user-images.githubusercontent.com/80922524/113368819-7d8db500-9314-11eb-9dec-3f88015f3e2e.png)
 
 
-
 **Part 3: Perform Financial Calculations**
 
 In this section, a function is defined, which will be used in present value calculation.
 
 ![image](https://user-images.githubusercontent.com/80922524/113369238-b67a5980-9315-11eb-94bd-7b4aa6923a3b.png)
 
+
+**Part 4: Conditionally Filter Lists of Loans**
+
+In this section, program loops through a series of loans that the company is considering and filter them to find the inexpensive ones.
+
+![image](https://user-images.githubusercontent.com/80922524/113369530-6bad1180-9316-11eb-944c-89869e553dde.png)
